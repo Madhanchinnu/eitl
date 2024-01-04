@@ -1,4 +1,11 @@
 hi eitlab
 welcome
 hello
+<<<<<<< HEAD
 hoe are[D[D[D[w[C[C[C[C you?
+=======
+hoe are  you?
+hi
+>>>>>>> refs/remotes/origin/main
+hi
+hi
